@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/gun_detection/gun_detection/train
+val: /content/drive/MyDrive/gun_detection/gun_detection/test
+test:  /content/drive/MyDrive/gun_detection/gun_detection/test
+
+
+nc: 1
+
+names: ['gun']
